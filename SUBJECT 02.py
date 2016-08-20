@@ -12,7 +12,7 @@ def startmenu():
     print ("      [B] Load        ")
     print ("[C] Instructions/help ")
     print ("    [D] Exit Game     ")
-    strtmnu = str(raw_input("Please pick an option"))
+    strtmnu = str(raw_input("Please pick an option\n          "))
     strtmnu = strtmnu.lower
     if strtmnu == "start new" or strtmnu == "a" or strtmnu == "startnew" or strtmnu == "start" or strtmnu == "new" or strtmnu == "a. start new":
         stnewyorn()
