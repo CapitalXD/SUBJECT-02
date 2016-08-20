@@ -12,8 +12,8 @@ def startmenu():
     print ("      [B] Load        ")
     print ("[C] Instructions/help ")
     print ("    [D] Exit Game     ")
-    strtmnu = str(raw_input("Please pick an option"))
-    strtmnu = strtmnu.lower
+    strtmnu = str(raw_input("Please pick an option\n          "))
+    strtmnu = strtmnu.lower()
     if strtmnu == "start new" or strtmnu == "a" or strtmnu == "startnew" or strtmnu == "start" or strtmnu == "new" or strtmnu == "a. start new":
         stnewyorn()
     else:
@@ -23,8 +23,8 @@ def startmenu():
 
 def stnewyorn():
     print ("    Do you want to begin a new game?\n(Reading instructions first is recommended) [Y/N]")
-    ng == input("")
-    ng == ng.lower
+    ng = raw_input("")
+    ng = ng.lower()
     if ng == "y":
         startnew()
     elif ng == "n":
