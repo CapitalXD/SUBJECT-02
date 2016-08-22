@@ -1,0 +1,26 @@
+﻿Welcome to Subject02!
+This game is a classic text-based
+game. No images, just words to 
+guide you through your quest. 
+Subject02 is about you, a teenage boy
+and your adventures trying to escape
+from a top-secret scientific research
+facility.
+
+In Subject02 you will be placed
+in all sorts of different situations. 
+To act, you must type commands, such
+as 'Dig' or 'Swim'. If your command 
+is mis-spelled, or not an available
+option, you will see an error message
+appear on your screen - e.g. "<command>
+is not an available option." Or "you
+can't select <command> now. Please try
+again." Commands are not case-sensitive.
+
+At any time during the course of the game,
+you may type , "H", and a list of possible
+(but not all) commands will be shown. This
+is a last-resort, and is suggested to only
+be used when you have been stuck for an
+extended period of time.
