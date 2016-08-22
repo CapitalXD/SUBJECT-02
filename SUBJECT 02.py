@@ -109,6 +109,9 @@ def exitgame():
                     print ("...and good riddance")
                     time.sleep(0.5)
                     sys.exit()
+                else:
+                    str (raw_input ("What? I don't get it. Hit that sexy-looking ENTER key to go back to the main menu.\n")
+                    startmenu()
 
 
 startmenu()
